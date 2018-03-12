@@ -1,0 +1,19 @@
+.main_flex{
+  display:flex;
+  flex-direction: row;
+}
+.profile{
+  width:30%;
+  background:#fff;
+  margin:1%;
+  padding:2%;
+}
+.content{
+  width: 70%;
+  margin:1%;
+  padding:2%;
+  background-color: #fff;
+}
+body{
+  background:#ddd;
+}
